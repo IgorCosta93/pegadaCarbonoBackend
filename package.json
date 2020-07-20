@@ -19,7 +19,7 @@
     "graphql-iso-date": "^3.6.1",
     "graphql-subscriptions": "^1.1.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.5.10",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "node-rtsp-stream": "^0.0.8",
     "node-rtsp-stream-es6": "^1.0.7"
